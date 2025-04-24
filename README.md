@@ -97,7 +97,7 @@ Each dashboard is built using **pivot tables**, **charts**, **conditional format
 For suggestions, collaboration, or feedback, feel free to [open an issue](https://github.com/rajeshwari0104/NFHS5-Data-Analysis/issues), reach out via GitHub  or connect  with me:
 
 - 👤 **Rajeshwari Thapa**
-- 📧 your.email@example.com
+- 📧 thaparajeshwari0104@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rajeshwari-thapa-278152297/)
 - 🐙 [GitHub](https://github.com/rajeshwari0104)
 
